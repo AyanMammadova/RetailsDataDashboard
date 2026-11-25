@@ -33,7 +33,7 @@ Pərakəndə satış məlumatlarını təhlil etmək, məhsul kateqoriyaları v�
 ## Layihə Faylları
 
 - `azer-sales.pbix` — Power BI hesabatı və məlumat modeli.
-- `images/dashboard.png` — hesabatın ekran görüntüsü.
+- `azerbaijan_retail_sales_dataset.csv ` - source data
 
 ## Hesabatı Necə Açmaq Olar?
 
